@@ -8,7 +8,7 @@ The data we were provided with referred to the timeframe Q3 2017 - Q2 2021. In p
 * Focal company's investments and impressions data of different media, both digital and TV.
 
 ### About the files
-The documents in this repository are two:
+There are two documents in this repository:
   1) Methodological Slides: this presentation contains a very detailed report of all the steps we followed to get to the results. First, there is a general description of the market and submarkets and the company media strategy. Then, the modelling tool and the path towards the model are highlighted; here, all our decisions are well-documented, as well as the tool which the model is based upon. Finally, the model outputs, the answers to the questions, and the practical recommendations are listed.
   2) CMO Slides: I created this set of slides to present to the CMO the results of our study, and the things the marketing department should do in order to optimize its budget based on the data they provided. This set of slides only looks at a part of the overall project (that is, the model results and industrialization steps), and it has been created for me to exercise to make consulting-style slides to present to the top-management of the company.
 
