@@ -1,5 +1,6 @@
 # Marketing Mix Modelling
 #### How a yoghurt company can optimize its ROI through Data Science.
+(May 2021)
 
 ### General Information
 This university project was carried out in collaboration with a multinational marketing agency whose goal was to innovate the way they extracted insights from marketing data for a a yoghurt company selling in multinational retail chains. Our professors posed several questions to be answered with a marketing mix model based on contextual variables (e.g., competitors' marketing variables, economic situation, market behaviour) and on media ones (e.g., TV GRP, Social Media Impressions, ...) relating to one of the submarkets that the competes in (called "Submarket 1").
